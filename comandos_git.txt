@@ -1,7 +1,7 @@
-git init .              -->     cria um repo git na pasta atual
-git status              -->     mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo    -->     adiciona arquivo para ser Conditions:
-git commit -m "msg"     -->     faz commit do que estava para ser Conditions:
+git init .              -->     Cria um repo git na pasta atual
+git status              -->     Mmostra o status do trabalho (de cada arquivo)
+git add nome_arquivo    -->     Adiciona arquivo para ser Conditions:
+git commit -m "msg"     -->     Faz commit do que estava para ser Conditions:
 git log                 -->     exibe as informações os commits realizados
 git diff nome arquivo   -->     exibe o conteúdo que foi alterado dentro do arquivo
 
